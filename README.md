@@ -1,6 +1,3 @@
-# Hospital-Emergency-Room-Analytics-Dashboard
-For GitHub, you can be a little more detailed than your resume. A good **Project Description** would be:
-
 # 🏥 Hospital Emergency Room Analytics Dashboard
 
 ## Project Overview
